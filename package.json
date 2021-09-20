@@ -1,0 +1,19 @@
+{
+  "name": "web-lab1",
+  "version": "1.0.0",
+  "description": "kpi web lab 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sorpirit/WebLabs.git"
+  },
+  "author": "Sorpirit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sorpirit/WebLabs/issues"
+  },
+  "homepage": "https://github.com/Sorpirit/WebLabs#readme"
+}
