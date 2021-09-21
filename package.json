@@ -4,7 +4,7 @@
   "description": "kpi web lab 1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "test.js",
     "prepare": "husky install"
   },
   "repository": {
